@@ -6,6 +6,9 @@
   <packaging>pom</packaging>
   <modules>
   	<module>health_common</module>
+  	<module>health_service_provider</module>
+  	<module>health_backend</module>
+  	<module>health_interface</module>
   </modules>
 
   <!-- 集中定义依赖版本号 -->
